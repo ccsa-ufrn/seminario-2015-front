@@ -48,13 +48,13 @@ include "config.php";
                     </nav>
                 </div>
                 
-                <div class="col-lg-4 col-md-4 col-lg-offset-1 col-md-offset-1">
+                <!-- <div class="col-lg-4 col-md-4 col-lg-offset-1 col-md-offset-1">
                     <nav class="secondary text-center">
                         <a href="https://seminario2015.ccsa.ufrn.br/contact"><i class="fa fa-envelope-o"></i> Contato</a>
                         <a href="https://seminario2015.ccsa.ufrn.br/register"><i class="fa fa-pencil"></i> Inscrever-se</a>
                         <a href="https://seminario2015.ccsa.ufrn.br/dashboard"><i class="fa fa-sign-in"></i> Entrar</a>
                     </nav>
-                </div>
+                </div> -->
 
             </div>            <!-- SOBRE -->
             <div class="row">
