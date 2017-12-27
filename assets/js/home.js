@@ -90,8 +90,8 @@ enquire.register("(min-width:1200px)", {
 
     match : function() {
 
-        $("section.about img.logo").attr('src','assets/img/logo945.png');
-        $("header.logo img.logo").attr('src','assets/img/logo945.png');
+        $("section.about img.logo").attr('src','assets/img/marca_960.png');
+        $("header.logo img.logo").attr('src','assets/img/marca_960.png');
 
     },       
 
