@@ -48,13 +48,14 @@ include "config.php";
                     </nav>
                 </div>
                 
-                <!-- <div class="col-lg-4 col-md-4 col-lg-offset-1 col-md-offset-1">
+                <div class="col-lg-4 col-md-4 col-lg-offset-1 col-md-offset-1">
                     <nav class="secondary text-center">
-                        <a href="https://seminario2015.ccsa.ufrn.br/contact"><i class="fa fa-envelope-o"></i> Contato</a>
-                        <a href="https://seminario2015.ccsa.ufrn.br/register"><i class="fa fa-pencil"></i> Inscrever-se</a>
-                        <a href="https://seminario2015.ccsa.ufrn.br/dashboard"><i class="fa fa-sign-in"></i> Entrar</a>
+                        <!-- <a href="https://seminario2015.ccsa.ufrn.br/contact"><i class="fa fa-envelope-o"></i> Contato</a> -->
+                        <!-- <a href="https://seminario2015.ccsa.ufrn.br/register"><i class="fa fa-pencil"></i> Inscrever-se</a> -->
+                        <a href="#"><i class="fa fa-pencil"></i> Inscrições em breve</a>
+                        <!-- <a href="https://seminario2015.ccsa.ufrn.br/dashboard"><i class="fa fa-sign-in"></i> Entrar</a> -->
                     </nav>
-                </div> -->
+                </div>
 
             </div>            <!-- SOBRE -->
             <div class="row">
@@ -200,7 +201,7 @@ include "config.php";
                         </div>
                         
                         <!-- NORMAS -->
-                        <div class="row">
+                        <!-- <div class="row">
                             <div class="col-lg-12">
                                 <div class="standards">
                                     <div class="row">
@@ -228,10 +229,10 @@ include "config.php";
                                     </div>
                                 </div> 
                             </div>
-                        </div>
+                        </div> -->
                         
                         <!-- CRÉDITOS -->
-                        <div class="row">
+                        <!-- <div class="row">
                             <div class="col-lg-12">
                                 <div class="credits">
                                     <div class="row">
@@ -259,7 +260,7 @@ include "config.php";
                                     </div>
                                 </div> 
                             </div>
-                        </div>
+                        </div> -->
                         
                     </section>
                     
@@ -341,52 +342,197 @@ informação. Curadoria de conteúdos. Estudos de fluxos, processos, uso e usuá
                                 <h1>Ciências Administrativas</h1>
                                 <ul>
                                     <li>
-                                        <a data-toggle="collapse" data-target="#coll-7"><i class="fa fa-check"></i> Gestão de Sistemas e Tecnologia da Informação</a>
+                                        <a data-toggle="collapse" data-target="#coll-7"><i class="fa fa-check"></i> Estratégias Políticas de Gestão</a>
                                         <div id="coll-7" class="collapse">
-                                            <strong>Anatalia Saraiva Martins Ramos</strong>
-                                            <p>Produção, comunicação e uso da informação em Ciência, Tecnologia e Inovação. Métodos de avaliação: Bibliometria, Cientometria, Informetria, Webometria, Cibermetria, Altmetria, Arquivometria. Repositórios digitais. Movimento Open Access. Ciência aberta.</p>
+                                            <strong>Miguel Eduardo Moreno Añez e Maxwell dos Santos Celestino</strong>
+                                            <p>Aprendizagem organizacional; Dinâmica de sistemas; Pensamento sistêm co; Modelagem de negócios; Simulação empresarial; Jogos de empresas; Aspectos Teóricos e Metodológicos da Vantagem Competitiva.</p>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <a data-toggle="collapse" data-target="#coll-8"><i class="fa fa-check"></i> Desafios da Implementação da Administração Estratégica nas Organizações</a>
+                                        <div id="coll-8" class="collapse">
+                                            <strong>Vidal Sunción Infante</strong>
+                                            <p>A complexidade estrutural das organizações em nível planetário envolvendo o ritmo acelerado das mudanças tanto na</p>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <a data-toggle="collapse" data-target="#coll-9"><i class="fa fa-check"></i> Gestão de Sistemas e Tecnologia da Informação</a>
+                                        <div id="coll-9" class="collapse">
+                                            <strong>Anatália Saraiva Martins Ramos</strong>
+                                            <p>Governo Eletrônico e Tecnologia da Informação em Organizações Não Governamentais;Aspectos Socioambientais de SI/TI.</p>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <a data-toggle="collapse" data-target="#coll-10"><i class="fa fa-check"></i> Gestão de Pessoas e Comportamento Organizacional</a>
+                                        <div id="coll-10" class="collapse">
+                                            <strong>Patrícia Whebber Souza de Oliveira</strong>
+                                            <p>Discutir as políticas e práticas de gestão de pessoas e os processos de comportamento organizacional no âmbito individual, grupal e organizacional e suas interfaces com o desenvolvimento das organizações.</p>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <a data-toggle="collapse" data-target="#coll-11"><i class="fa fa-check"></i> Administração Pública, Empreendedorismo e Desenvolvimento</a>
+                                        <div id="coll-11" class="collapse">
+                                            <strong>Aline Virginia de Medeiros Nelson, Dalvanir Avelino da Silva</strong>
+                                            <p>O GT tem como objetivo constituir-se num espaço para apresentação de trabalhos que envolvam reflexões sobre as possibilidades e limitações das políticas que tem como foco o desenvolvimento humano em suas dimensões (econômica, social, política, ambiental e cultural), bem como a análise da institucionalização de práticas e ações inovadoras e empreendedoras no campo da administração pública, bem como na articulação entre Mercado e Estado.</p>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <a data-toggle="collapse" data-target="#coll-12"><i class="fa fa-check"></i> Gestão Social, Reforma Agrária e Desenvolvimento Territorial</a>
+                                        <div id="coll-12" class="collapse">
+                                            <strong>Washington Souza, Pâmela Brandão</strong>
+                                            <p>Trata-se de grupo de trabalho destinado à discussão de processos e tendências do campo da Gestão Social, incluindo o universo das organizações do Terceiro Setor (não-governamentais, cooperativas, associações, grupos de trabalho e produção informais), além de temas específicos de estágios da reforma agrária e do desenvolvimento territorial no Rio Grande do Norte e no Brasil.</p>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <a data-toggle="collapse" data-target="#coll-13"><i class="fa fa-check"></i> Inovação na Gestão Pública</a>
+                                        <div id="coll-13" class="collapse">
+                                            <strong>Hironobu Sano, Lilian Sumiya</strong>
+                                            <p>Discutir trabalhos que abordem as inovações no campo da gestão pública e das políticas públicas, contribuindo para a disseminação das boas práticas e, com isso, com o fortalecimento do setor público e a melhoria nos serviços ofertados à população.</p>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <a data-toggle="collapse" data-target="#coll-14"><i class="fa fa-check"></i> Marketing</a>
+                                        <div id="coll-14" class="collapse">
+                                            <strong>Thelma Pignataro</strong>
+                                            <p>Administração de Marketing. Marketing no Século XXI como ferramenta pedagógica no contexto educacional. Marketing em áreas especiais. Gerenciamento do processo de marketing, marketing virtual e inteligência competitiva.</p>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <a data-toggle="collapse" data-target="#coll-15"><i class="fa fa-check"></i> Condições de Trabalho e Saúde do Trabalhador</a>
+                                        <div id="coll-15" class="collapse">
+                                            <strong>Maria Teresa Pires Costa, Antônio Alves Filho</strong>
+                                            <p>Condições de trabalho e sua relação com a saúde do trabalhador; qualidade de vida no trabalho.</p>
                                         </div>
                                     </li>
                                 </ul>
                                 <h1>Ciências Contábeis</h1>
                                 <ul>
-                                    <li><a data-toggle="modal" data-target=".modal-thematic-groups-syllabus" data-id="7"><i class="fa fa-check"></i> Controladoria</a></li>
-                                    <li><a data-toggle="modal" data-target=".modal-thematic-groups-syllabus" data-id="9"><i class="fa fa-check"></i> Contabilidade para Usuários Externos</a></li>
-                                    <li><a data-toggle="modal" data-target=".modal-thematic-groups-syllabus" data-id="10"><i class="fa fa-check"></i> Educação e Pesquisa em Contabilidade</a></li>
+                                    <li>
+                                        <a data-toggle="collapse" data-target="#coll-16"><i class="fa fa-check"></i> Controladoria</a>
+                                        <div id="coll-16" class="collapse">
+                                            <strong>Adilson Tavares, Alexandro Barbosa, Maxwell dos Santos Celestino</strong>
+                                            <p>Sistemas de Informação, Controles de Gestão, Custos, Custeio da Qualidade, orçamento empresarial, Avaliação de desempenho, informação de custo e qualidade do gasto público.</p>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <a data-toggle="collapse" data-target="#coll-17"><i class="fa fa-check"></i> Contabilidade para Usuários Externos</a>
+                                        <div id="coll-17" class="collapse">
+                                            <strong>Clayton Levy</strong>
+                                            <p>Contabilidade Societária, IFRS, Tributação, Auditoria e Perícia Contábil, Educação Fiscal, Contabilidade Pública e Governamental.</p>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <a data-toggle="collapse" data-target="#coll-18"><i class="fa fa-check"></i> Educação e Pesquisa em Contabilidade</a>
+                                        <div id="coll-18" class="collapse">
+                                            <strong>Aneide Oliveira Araujo, Edmilson Jovino</strong>
+                                            <p>Formação do Contador; Processo de ensino-aprendizagem; Estilos e Estratégias de Aprendizagem em Ciências Contábeis; Avaliação de aprendizagem; Tecnologia da Educação: Educação online; metodos de pesquisa qualitativa e quantitativa em contabilidade; Perfil e Evolução do egresso; Expectativas de mercado e do curso de Ciências Contábeis; Avaliação de programas educacionais.</p>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <a data-toggle="collapse" data-target="#coll-19"><i class="fa fa-check"></i> Contabilidade, Controle Interno e Auditoria aplicados ao setor público</a>
+                                        <div id="coll-19" class="collapse">
+                                            <strong>Victor Branco de Holanda</strong>
+                                            <p></p>
+                                        </div>
+                                    </li>
                                 </ul>
                             </div>
                             <div class="col-lg-5 col-md-5 col-sm-5">
                                 <h1>Direito Público e Privado</h1>
                                     <ul>
-                                        <li><a data-toggle="modal" data-target=".modal-thematic-groups-syllabus" data-id="36"><i class="fa fa-check"></i> Direitos da Personalidade na Sociedade Contemporânea</a></li>
-                                        <li><a data-toggle="modal" data-target=".modal-thematic-groups-syllabus" data-id="37"><i class="fa fa-check"></i> Direito e Desenvolvimento</a></li>
-                                        <li><a data-toggle="modal" data-target=".modal-thematic-groups-syllabus" data-id="38"><i class="fa fa-check"></i> Direito e Relações de Consumo</a></li>
-                                        <li><a data-toggle="modal" data-target=".modal-thematic-groups-syllabus" data-id="39"><i class="fa fa-check"></i> Direito e Regulação dos Recursos Naturais e da Energia</a></li>
-                                        <li><a data-toggle="modal" data-target=".modal-thematic-groups-syllabus" data-id="40"><i class="fa fa-check"></i> Direito Administrativo Clássico e Suas Transformações no Contexto do Pós-Positivismo Jurídico</a></li>
-                                        <li><a data-toggle="modal" data-target=".modal-thematic-groups-syllabus" data-id="41"><i class="fa fa-check"></i> Neoconstitucionalismo: da Teoria à Realidade</a></li>
-                                        <li><a data-toggle="modal" data-target=".modal-thematic-groups-syllabus" data-id="42"><i class="fa fa-check"></i> Direito Administrativo e o Modelo de Estado Contemporâneo</a></li>
-                                        <li><a data-toggle="modal" data-target=".modal-thematic-groups-syllabus" data-id="43"><i class="fa fa-check"></i> Direito Tributário e Intervenção do Estado sobre o Domínio Econômico</a></li>
-                                        <li><a data-toggle="modal" data-target=".modal-thematic-groups-syllabus" data-id="44"><i class="fa fa-check"></i> Direito Internacional e sua Efetivação na Ordem Jurídica Interna</a></li>
-                                        <li><a data-toggle="modal" data-target=".modal-thematic-groups-syllabus" data-id="45"><i class="fa fa-check"></i> Jurisdição Constitucional</a></li>
+                                        <li>
+                                            <a data-toggle="collapse" data-target="#coll-20"><i class="fa fa-check"></i> Direitos Fundamentais e interpretação constitucional</a>
+                                            <div id="coll-20" class="collapse">
+                                                <strong>Leonardo Martins, Fabiano André de Souza Mendonça, Fabrízia Pessoa Serafim, Jone Fagner Rafael Maciel, Pedro de Oliveira Alves, Suzana Cecília Cortês de Araújo e Silva.</strong>
+                                                <p>Teoria geral dos direitos fundamentais. Eficácia e aplicabilidade dos direitos fundamentais. Direitos individuais e coletivos previstos na Constituição Federal e nas Constituições estaduais. Direitos e garantias constitucionais no Processo Penal. Direito Civil Constitucional. Direitos fundamentais previstos na Convenção Internacional sobre os Direitos das Pessoas com Deficiência. Teorias da interpretação constitucional e seus desafios. Avaliação crítica das decisões do Supremo Tribunal Federal e dos Tribunais de Justiça em matéria de direitos fundamentais. Concretização de direitos fundamentais via controle difuso de constitucionalidade. Princípio da proporcionalidade. Princípios e regras na argumentação jurídica das Cortes Constitucionais. Direito Constitucional Comparado.</p>
+                                            </div>
+                                        </li>
                                     </ul>
                                 <h1>Economia</h1>
                                     <ul>
-                                        <li><a data-toggle="modal" data-target=".modal-thematic-groups-syllabus" data-id="11"><i class="fa fa-check"></i> Estudos e Pesquisas em Espaço, Trabalho, Inovação e Sustentabilidade</a></li>
-                                        <li><a data-toggle="modal" data-target=".modal-thematic-groups-syllabus" data-id="12"><i class="fa fa-check"></i> Desenvolvimento Econômico</a></li>
-                                        <li><a data-toggle="modal" data-target=".modal-thematic-groups-syllabus" data-id="13"><i class="fa fa-check"></i> Grupo Interdisciplinar de Estudos e Avaliação de Políticas Públicas (GIAPP)</a></li>
-                                        <li><a data-toggle="modal" data-target=".modal-thematic-groups-syllabus" data-id="47"><i class="fa fa-check"></i> Crescimento econômico com justiça social e igualdade de oportunidades</a></li>
-                                        <li><a data-toggle="modal" data-target=".modal-thematic-groups-syllabus" data-id="48"><i class="fa fa-check"></i> Meio ambiente, energia limpa e desenvolvimento sustentável</a></li>
-                                        <li><a data-toggle="modal" data-target=".modal-thematic-groups-syllabus" data-id="51"><i class="fa fa-check"></i> Métodos Quantitativos Aplicados à Economia</a></li>
+                                        <li>
+                                            <a data-toggle="collapse" data-target="#coll-21"><i class="fa fa-check"></i> Análise Econômica Multissetorial, Estratégica e Conjuntural</a>
+                                            <div id="coll-21" class="collapse">
+                                                <strong>André Luís Cabral Lourenço, Denílson da Silva Araújo, Fabrício Pitombo Leite, Márcia Maria de Oliveira Bezerra e William Eufrasio Nunes Pereira</strong>
+                                                <p>Estudo das relações entre as atividades econômicas, o qual é realizado por meio de modelos multissetoriais, e das consequências dessas inter-relações para a análise de um espaço econômico específico, seja um espaço nacional ou subnacional. Estimativas de matrizes insumo-produto, nacional e/ou estadual. Análise das relações econômicas intersetoriais para o espaço nacional, regional ou estadual. Análise conjuntural e estudos de análise estratégica para o Brasil tipicamente relacionada a médios e longos prazos. Modelos de consistência entre fluxos e estoques (stock-flow consistent - SFC) e modelos macroeconômicos em geral.</p>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <a data-toggle="collapse" data-target="#coll-22"><i class="fa fa-check"></i> Desenvolvimento Econômico</a>
+                                            <div id="coll-22" class="collapse">
+                                                <strong>André Luís Cabral Lourenço, Denílson da Silva Araújo, Márcia Maria de Oliveira Bezerra, William Eufrasio Nunes Pereira e Marconi Gomes da Silva</strong>
+                                                <p>Discutir as contribuições teóricas e de políticas que analisem o desenvolvimento nas diversas vertentes do pensamento econômico, priorizando as questões macroeconômicas.</p>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <a data-toggle="collapse" data-target="#coll-23"><i class="fa fa-check"></i> Grupo Interdisciplinar de Estudos e Avaliação de Políticas Públicas (GIAPP)</a>
+                                            <div id="coll-23" class="collapse">
+                                                <strong>João Matos Filho e Lincoln Moraes de Souza</strong>
+                                                <p>As contribuições acadêmicas sobre avaliação e análise de políticas públicas, inclusive: avaliação de produtos, efeitos e impactos das diversas políticas como saúde, educação, agricultura, assistência social etc.</p>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <a data-toggle="collapse" data-target="#coll-24"><i class="fa fa-check"></i> Estudos e Pesquisas em Espaço, Trabalho, Inovação e Sustentabilidade</a>
+                                            <div id="coll-24" class="collapse">
+                                                <strong>Denílson da Silva Araújo, Luziene Dantas de Macedo, William Eufrasio Nunes Pereira, Marconi Gomes da Silva, Maria Lussieu da Silva, Valdênia Apolinário</strong>
+                                                <p>Discutir questões teóricas e políticas da economia regional e urbana, priorizando as questões do trabalho, da inovação e da sustentabilidade nesses espaços.</p>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <a data-toggle="collapse" data-target="#coll-25"><i class="fa fa-check"></i> Métodos Quantitativos Aplicados à Economia</a>
+                                            <div id="coll-25" class="collapse">
+                                                <strong>João Paulo Martins Guedes, Diego de Maria André, Igor Ezio Maciel Silva e Janaína da Silva Alves</strong>
+                                                <p>Discutir as  contribuições metodológicas quantitativas aplicadas à Economia. Neste caso, pretende-se analisar temas como saúde, educação, criminalidade, crescimento econômico, integração de mercados etc., utilizando ferramentas estatísticas, matemáticas e econométricas que têm sido aplicadas na literatura nacional e internacional, a fim de trazer contribuições ao desenvolvimento regional.</p>
+                                            </div>
+                                        </li>
                                     </ul>
                                 <h1>Serviço Social</h1>
                                     <ul>
-                                        
+                                        <li>
+                                            <a data-toggle="collapse" data-target="#coll-26"><i class="fa fa-check"></i> Questão Social, Política Social e Serviço Social</a>
+                                            <div id="coll-26" class="collapse">
+                                                <strong>Anna Luiza Lopes Liberato Alexandre Freire, Edla Hoffmann, Eliana Andrade da Silva, Ilena Felipe Barros, Iris Maria de Oliveira, Larisse de Oliveira Rodrigues, Roberto Marinho Alves da Silva e Rosângela Alves de Oliveira</strong>
+                                                <p>Estudos e pesquisas sobre a Questão Social e suas expressões; Análise de políticas sociais – sua gênese e desenvolvimento e a inserção profissional do Serviço Social nos processos de formulação.</p>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <a data-toggle="collapse" data-target="#coll-27"><i class="fa fa-check"></i> Direitos Humanos, Diversidade Humana e Serviço Social</a>
+                                            <div id="coll-27" class="collapse">
+                                                <strong>Maria Ilidiana Diniz, Miriam de Oliveira Inácio, Rita de Lourdes de Lima, Silvana Mara de Morais dos Santos e Tibério Lima Oliveira</strong>
+                                                <p>Consiste num espaço de socialização de estudos e pesquisas na área de Serviço Social e áreas afins, e tem como principal objetivo contribuir com a reflexão crítica sobre os processos de violação dos direitos humanos na sociedade capitalista, considerando a diversidade humana em suas diferentes expressões: gênero; identidade de gênero; raça-etnia; orientação sexual.</p>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <a data-toggle="collapse" data-target="#coll-28"><i class="fa fa-check"></i> Questão Urbana Agrária, Ambiental, Movimentos Sociais e Serviço Social</a>
+                                            <div id="coll-28" class="collapse">
+                                                <strong>Andréa Lima da Silva, Daniela Neves de Sousa e Ilka de Lima Souza</strong>
+                                                <p>Consiste num espaço de socialização de estudos e pesquisas na área de Serviço Social e áreas afins e tem como principal objetivo a contribuição à reflexão crítica de pesquisas que estudam as seguintes temáticas: Propriedade privada da terra, trabalho e formas de produção e reprodução capitalista.</p>
+                                            </div>
+                                        </li>
                                     </ul>
                                 <h1>Turismo</h1>
                                     <ul>
-                                        <li><a data-toggle="modal" data-target=".modal-thematic-groups-syllabus" data-id="3"><i class="fa fa-check"></i> Gestão do Turismo</a></li>
-                                        <li><a data-toggle="modal" data-target=".modal-thematic-groups-syllabus" data-id="5"><i class="fa fa-check"></i> Hospitalidade</a></li>
-                                        <li><a data-toggle="modal" data-target=".modal-thematic-groups-syllabus" data-id="6"><i class="fa fa-check"></i> Planejamento e Organização do Turismo</a></li>
+                                        <li>
+                                            <a data-toggle="collapse" data-target="#coll-29"><i class="fa fa-check"></i> Gestão em Turismo</a>
+                                            <div id="coll-29" class="collapse">
+                                                <strong>Lissa Valéria, Leilianne Barreto, Luiz Mendes e Mauro Lemuel</strong>
+                                                <p>Competitividade Turística de Destinos e Organizações; Redes e Alianças Estratégicas; Marketing Turístico; Comunicação e Promoção Turística; Gestão da Qualidade dos Serviços Turísticos; Planejamento e Gestão em Turismo.</p>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <a data-toggle="collapse" data-target="#coll-30"><i class="fa fa-check"></i> Planejamento e Organização do Turismo</a>
+                                            <div id="coll-30" class="collapse">
+                                                <strong>Kerlei Sonaglio, Rosana Mazaro, Andrea Virgínia e José Eneas</strong>
+                                                <p>Turismo, governança e governabilidade. Participação Popular e as Políticas Públicas de Turismo. Teoria do Planejamento Turístico. Planejamento e Organização do Turismo. Planejamento e Segmentação Turística.</p>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <a data-toggle="collapse" data-target="#coll-31"><i class="fa fa-check"></i> Hospitalidade, Lazer e Eventos</a>
+                                            <div id="coll-31" class="collapse">
+                                                <strong>Ricardo Lanzarini, Mayara Ferreira e Michel Vieira</strong>
+                                                <p>Aspectos gerais da hospitalidade. Hospitalidade e Turismo. Hospitalidade em meios de hospedagem. Hospitalidade em equipamentos de alimentação. Estudos do lazer. Práticas de lazer em destinos turísticos. Lazer e entretenimento como atrações turísticas. O lúdico e o bem-estar social. Eventos: planejamento e organização. Impactos e importância dos eventos nos destinos turísticos. Cerimonial e protocolo. Eventos temáticos. Hospitalidade em eventos.</p>
+                                            </div>
+                                        </li>
                                     </ul>
                                 </div>
                         </div>
