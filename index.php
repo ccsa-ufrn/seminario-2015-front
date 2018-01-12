@@ -447,6 +447,13 @@ informação. Curadoria de conteúdos. Estudos de fluxos, processos, uso e usuá
                                                 <p>Teoria geral dos direitos fundamentais. Eficácia e aplicabilidade dos direitos fundamentais. Direitos individuais e coletivos previstos na Constituição Federal e nas Constituições estaduais. Direitos e garantias constitucionais no Processo Penal. Direito Civil Constitucional. Direitos fundamentais previstos na Convenção Internacional sobre os Direitos das Pessoas com Deficiência. Teorias da interpretação constitucional e seus desafios. Avaliação crítica das decisões do Supremo Tribunal Federal e dos Tribunais de Justiça em matéria de direitos fundamentais. Concretização de direitos fundamentais via controle difuso de constitucionalidade. Princípio da proporcionalidade. Princípios e regras na argumentação jurídica das Cortes Constitucionais. Direito Constitucional Comparado.</p>
                                             </div>
                                         </li>
+										<li>
+											<a data-toggle="collapse" data-target="#coll-20a"><i class="fa fa-check"></i> Direito Administrativo e o Modelo de Estado Contemporâneo</a>
+											<div id="coll-20a" class="collapse">
+                                                <strong><!-- no coordinators --></strong>
+                                                <p><!-- no description --></p>
+                                            </div>
+										</li>
                                     </ul>
                                 <h1>Economia</h1>
                                     <ul>
@@ -534,6 +541,16 @@ informação. Curadoria de conteúdos. Estudos de fluxos, processos, uso e usuá
                                             </div>
                                         </li>
                                     </ul>
+									<h1>Transdisciplinar</h1>
+									<ul>
+										<li>
+											<a data-toggle="collapse" data-target="#coll-32"><i class="fa fa-check"></i> Casos para Ensino</a>
+											<div id="coll-32" class="collapse">
+                                                <strong></strong>
+                                                <p></p>
+                                            </div>
+										</li>
+									</ul>
                                 </div>
                         </div>
 
