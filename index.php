@@ -448,10 +448,10 @@ informação. Curadoria de conteúdos. Estudos de fluxos, processos, uso e usuá
                                             </div>
                                         </li>
 										<li>
-											<a data-toggle="collapse" data-target="#coll-20a"><i class="fa fa-check"></i> Direito Administrativo e o Modelo de Estado Contemporâneo</a>
+											<a data-toggle="collapse" data-target="#coll-20a"><i class="fa fa-check"></i> Direito Administrativo, Direitos Fundamentais e Políticas Públicas</a>
 											<div id="coll-20a" class="collapse">
-                                                <strong><!-- no coordinators --></strong>
-                                                <p><!-- no description --></p>
+                                                <strong>Vladimir da Rocha França</strong>
+                                                <p>Trata-se de Grupo de Trabalho, vinculado ao Grupo de Pesquisa Direito Administrativo Brasileiro, que tem por objetivo viabilizar a reflexão sobre temas da Dogmática Jurídica (Ciência do Direito em sentido estrito) associados à Administração Pública e ao papel desta na concretização de direitos fundamentais ou de políticas públicas.</p>
                                             </div>
 										</li>
                                     </ul>
@@ -546,11 +546,11 @@ informação. Curadoria de conteúdos. Estudos de fluxos, processos, uso e usuá
 										<li>
 											<a data-toggle="collapse" data-target="#coll-32"><i class="fa fa-check"></i> Casos para Ensino</a>
 											<div id="coll-32" class="collapse">
-                                                <strong></strong>
-                                                <p></p>
+                                                <strong>Maria Váleria Pereira de Araújo e Pâmela de Medeiros Brandão</strong>
+                                                <p>A apresentação do caso refere-se ao relato descritivo da situação e do problema a…podendo a critério do autor se subdividir. Uma boa apresentação do caso deve apresentar: uma introdução definindo o problema a ser investigado e…que requeiram análise para resolver uma questão específica.</p>
                                             </div>
-										</li>
-									</ul>
+					</li>
+				</ul>
                                 </div>
                         </div>
 
