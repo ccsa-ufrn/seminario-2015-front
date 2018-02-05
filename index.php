@@ -8,7 +8,7 @@ include "config.php";
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         
-        <title>XXIII Seminário de Pesquisa do CCSA</title>
+        <title>23º Seminário de Pesquisa do CCSA</title>
 
         <!-- Bootstrap Core CSS -->
         <link href="<?php echo $url_base; ?>/assets/css/bootstrap.min.css" rel="stylesheet">
@@ -52,8 +52,8 @@ include "config.php";
                     <nav class="secondary text-center">
                         <!-- <a href="https://seminario2015.ccsa.ufrn.br/contact"><i class="fa fa-envelope-o"></i> Contato</a> -->
                         <!-- <a href="https://seminario2015.ccsa.ufrn.br/register"><i class="fa fa-pencil"></i> Inscrever-se</a> -->
-                        <a href="#"><i class="fa fa-pencil"></i> Inscrições em breve</a>
-                        <!-- <a href="https://seminario2015.ccsa.ufrn.br/dashboard"><i class="fa fa-sign-in"></i> Entrar</a> -->
+                        <a href="#" data-toggle="modal" data-target="#inscriptionModal"><i class="fa fa-pencil"></i> Inscrever-se</a>
+                        <a href="http://sigeva.ccsa.ufrn.br/login"><i class="fa fa-sign-in"></i> Entrar</a>
                     </nav>
                 </div>
 
@@ -129,6 +129,9 @@ include "config.php";
                         <div class="row">
                             <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 col-sm-10 col-sm-offset-1">
                                 <image width="100%" src="./assets/img/marca_960.png" />
+                                <center>
+                                    <span style="color:grey;font-size:16pt;">14 a 18 de maio de 2018</span><br>
+                                </center>
                             </div>
                         </div>
                         
@@ -147,11 +150,11 @@ include "config.php";
                             </div>
                         </div> -->
                         
-                        <!-- <div class="row signup-container">
+                        <div class="row signup-container">
                             <div class="col-lg-12 text-center">
-                                <a href="https://seminario2015.ccsa.ufrn.br/register" class="signup">Faça sua inscrição!</a>
+                                <a href="#" class="signup" data-toggle="modal" data-target="#inscriptionModal">Faça sua inscrição!</a>
                             </div>
-                        </div> -->
+                        </div>
                         
                     </section>
                     
@@ -655,6 +658,34 @@ informação. Curadoria de conteúdos. Estudos de fluxos, processos, uso e usuá
             </footer>
 
         </div> <!-- ./ end container -->
+
+        <!-- begin INSCRIPTION MODAL -->
+        <div class="modal fade" id="inscriptionModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Como se inscrever no 23º SPCCSA</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <p>O Seminário de Pesquisa do CCSA a partir de sua 23º edição passará a utilizar o Sigeva (Sistema de Gestão de Eventos Acadêmicos) como ferramenta 
+de gestão. Portanto, as inscrições devem ser feitas através da plataforma no endereço <a href="http://sigeva.ccsa.ufrn.br" target="_blank">http://sigeva.ccsa.ufrn.br</a>.
+                    </p>
+                    <p><a href="how-to-sigeva.php">Clique aqui</a> para acessar um tutorial detalhado sobre como efetuar inscrição no 23º Seminário de Pesquisa do CCSA utilizando
+a plataforma Sigeva.</p>
+                    <center>
+                        <a href="http://sigeva.ccsa.ufrn.br"><button type="button" class="btn btn-primary">Acessar o Sigeva</button></a>
+                    </center>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+                </div>
+                </div>
+            </div>
+        </div>
+        <!-- end INSCRIPTION MODAL -->
         
         <!-- Enquire.js -->
         <script src="https://seminario2015.ccsa.ufrn.br/assets/js/enquire.js"></script>
