@@ -213,16 +213,16 @@ include "config.php";
                                                <div class="circle ">
                                                     <i class="fa fa-book"></i>
                                                 </div>
-                                                <h1>Normas e Templates</h1>
+                                                <h1>Arquivos</h1>
                                                 <p>Download de normas e templates para realização de trabalhos, posteres, inscrição, etc.</p> 
                                             </div>
                                         </div>
                                         <div class="second col-lg-9 col-md-9  text-center">
                                             <div class="content">
 											<a href="<?php echo $url_base; ?>/assets/normas.pdf" target="_blank"><i class="fa fa-external-link-square"></i> Norma completa do Seminário de Pesquisa</a><br>
-											<a href="<?php echo $url_base; ?>/assets/XXIII SPCCSA template.artigo.zip" target="_blank"><i class="fa fa-external-link-square"></i> Template para artigo</a><br>
-											<a href="<?php echo $url_base; ?>/assets/XXIII SPCCSA template.casoensino.zip" target="_blank"><i class="fa fa-external-link-square"></i> Template para caso de ensino</a><br>
-											<a href="<?php echo $url_base; ?>/assets/XXIII SPCCSA template.poster.zip" target="_blank"><i class="fa fa-external-link-square"></i> Template para pôster</a><br>
+											<a href="<?php echo $url_base; ?>/assets/XXIII SPCCSA template.artigo.zip" target="_blank"><i class="fa fa-external-link-square"></i> Template de artigo</a><br>
+											<a href="<?php echo $url_base; ?>/assets/XXIII SPCCSA template.casoensino.zip" target="_blank"><i class="fa fa-external-link-square"></i> Template de caso para ensino</a><br>
+											<a href="<?php echo $url_base; ?>/assets/XXIII SPCCSA template.poster.zip" target="_blank"><i class="fa fa-external-link-square"></i> Template de pôster</a>
                                             </div>
                                         </div>
 
