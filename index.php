@@ -204,7 +204,7 @@ include "config.php";
                         </div>
                         
                         <!-- NORMAS -->
-                        <!-- <div class="row">
+                        <div class="row">
                             <div class="col-lg-12">
                                 <div class="standards">
                                     <div class="row">
@@ -213,26 +213,23 @@ include "config.php";
                                                <div class="circle ">
                                                     <i class="fa fa-book"></i>
                                                 </div>
-                                                <h1>Normas</h1>
-                                                <p>Download de normas para realização de trabalhos, posteres, inscrição, etc.</p> 
+                                                <h1>Normas e Templates</h1>
+                                                <p>Download de normas e templates para realização de trabalhos, posteres, inscrição, etc.</p> 
                                             </div>
                                         </div>
                                         <div class="second col-lg-9 col-md-9  text-center">
                                             <div class="content">
-                                                <a href="https://seminario2015.ccsa.ufrn.br/assets/norma.pdf" target="_blank"><i class="fa fa-external-link-square"></i> Norma completa do Seminário de Pesquisa</a>
-                                                <a href="javascript:void(0);" data-target=".modal-standards" data-toggle="modal" data-id="1"><i class="fa fa-external-link-square"></i> Normas para artigos a serem submetidos aos Grupos de Trabalho</a>
-                                                <a href="javascript:void(0);" data-target=".modal-standards" data-toggle="modal" data-id="2"><i class="fa fa-external-link-square"></i> Normas para pôsteres a serem submetidos aos Grupos de Trabalho</a>
-                                                <a href="javascript:void(0);" data-target=".modal-standards" data-toggle="modal" data-id="3"><i class="fa fa-external-link-square"></i> Normas para inscrição dos minicursos</a>
-                                                
-                                                <a href="javascript:void(0);" data-target=".modal-standards" data-toggle="modal" data-id="4"><i class="fa fa-external-link-square"></i> Normas para inscrição das mesas-redondas</a>
-                                                
+											<a href="<?php echo $url_base; ?>/assets/normas.pdf" target="_blank"><i class="fa fa-external-link-square"></i> Norma completa do Seminário de Pesquisa</a><br>
+											<a href="<?php echo $url_base; ?>/assets/XXIII SPCCSA template.artigo.zip" target="_blank"><i class="fa fa-external-link-square"></i> Template para artigo</a><br>
+											<a href="<?php echo $url_base; ?>/assets/XXIII SPCCSA template.casoensino.zip" target="_blank"><i class="fa fa-external-link-square"></i> Template para caso de ensino</a><br>
+											<a href="<?php echo $url_base; ?>/assets/XXIII SPCCSA template.poster.zip" target="_blank"><i class="fa fa-external-link-square"></i> Template para pôster</a><br>
                                             </div>
                                         </div>
 
                                     </div>
                                 </div> 
                             </div>
-                        </div> -->
+                        </div>
                         
                         <!-- CRÉDITOS -->
                         <!-- <div class="row">
