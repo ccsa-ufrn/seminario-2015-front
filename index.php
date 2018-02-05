@@ -214,7 +214,7 @@ include "config.php";
                                                     <i class="fa fa-book"></i>
                                                 </div>
                                                 <h1>Arquivos</h1>
-                                                <p>Download de normas e templates para realização de trabalhos, posteres, inscrição, etc.</p> 
+                                                <p>Download de normas e templates</p> 
                                             </div>
                                         </div>
                                         <div class="second col-lg-9 col-md-9  text-center">
