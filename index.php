@@ -370,13 +370,6 @@ informação. Curadoria de conteúdos. Estudos de fluxos, processos, uso e usuá
                                         </div>
                                     </li>
                                     <li>
-                                        <a data-toggle="collapse" data-target="#coll-11"><i class="fa fa-check"></i> Administração Pública, Empreendedorismo e Desenvolvimento</a>
-                                        <div id="coll-11" class="collapse">
-                                            <strong>Aline Virginia de Medeiros Nelson, Dalvanir Avelino da Silva</strong>
-                                            <p>O GT tem como objetivo constituir-se num espaço para apresentação de trabalhos que envolvam reflexões sobre as possibilidades e limitações das políticas que tem como foco o desenvolvimento humano em suas dimensões (econômica, social, política, ambiental e cultural), bem como a análise da institucionalização de práticas e ações inovadoras e empreendedoras no campo da administração pública, bem como na articulação entre Mercado e Estado.</p>
-                                        </div>
-                                    </li>
-                                    <li>
                                         <a data-toggle="collapse" data-target="#coll-12"><i class="fa fa-check"></i> Gestão Social, Reforma Agrária e Desenvolvimento Territorial</a>
                                         <div id="coll-12" class="collapse">
                                             <strong>Washington Souza, Pâmela Brandão</strong>
@@ -454,6 +447,20 @@ informação. Curadoria de conteúdos. Estudos de fluxos, processos, uso e usuá
                                                 <p>Trata-se de Grupo de Trabalho, vinculado ao Grupo de Pesquisa Direito Administrativo Brasileiro, que tem por objetivo viabilizar a reflexão sobre temas da Dogmática Jurídica (Ciência do Direito em sentido estrito) associados à Administração Pública e ao papel desta na concretização de direitos fundamentais ou de políticas públicas.</p>
                                             </div>
 										</li>
+                                        <li>
+                                            <a data-toggle="collapse" data-target="#coll-20b"><i class="fa fa-check"></i> Direito, Linguagem e Sociedade</a>
+                                            <div id="coll-20b" class="collapse">
+                                                <strong>Anderson Souza da Silva Lanzillo</strong>
+                                                <p>O objetivo do presente grupo de trabalho é discutir as relações entre Direito e Linguagem em seus variados aspectos a partir de múltiplas perspectivas teóricas, tendo em vista o aspecto social dessa inter-relação. Modernamente cresce a percepção de que o exercício democrático do Direito não significa apenas ter acesso aos meios institucionais ligados ao sistema de justiça estatal, mas também compreender esses meios, o que implica no acesso, claridade e compreensão da linguagem jurídica. Interessa especialmente trabalhos que discutam: a) aspectos epistemológicos e teóricos gerais ligados ao Direito e à Linguagem (Teoria e Filosofia do Direito, e Ciências da Linguagem); b) argumentação e hermenêutica jurídica; c) a linguagem jurídica e seus gêneros (Linguística e Dogmática Jurídica); d) direito, linguagem e práticas sociais/ acesso à justiça.</p>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <a data-toggle="collapse" data-target="#coll-20c"><i class="fa fa-check"></i> Direito e Regulação dos Recursos Naturais e da Energia</a>
+                                            <div id="coll-20c" class="collapse">
+                                                <strong>Yanko Marcius de Alencar Xavier, Patrícia Borba Vilar Guimarães, Fabricio Gemano Alves, Anderson da Silva Lanzillo</strong>
+                                                <p>Direito dos Recursos Hídricos: princípios hídricos constitucionais, política nacional dos recursos hídricos, usuário-pagador, atribuições e competências, conflitos.</p>
+                                            </div>
+                                        </li>
                                     </ul>
                                 <h1>Economia</h1>
                                     <ul>
